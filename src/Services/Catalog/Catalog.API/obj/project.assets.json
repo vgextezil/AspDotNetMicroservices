@@ -1237,19 +1237,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hakmandul\\.nuget\\packages\\": {}
+    "/Users/extezil/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "/Users/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-      "packagesPath": "C:\\Users\\hakmandul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+      "projectPath": "/Users/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+      "packagesPath": "/Users/extezil/.nuget/packages/",
+      "outputPath": "/Users/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hakmandul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/extezil/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1305,7 +1305,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/extezil/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
