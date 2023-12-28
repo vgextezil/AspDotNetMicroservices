@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Catalog.API</name>
+    </assembly>
+    <members>
+        <member name="M:Catalog.API.Controllers.CatalogController.GetProducts">
+            <summary>
+            Get all products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Catalog.API.Controllers.CatalogController.GetProductById(System.String)">
+            <summary>
+            Get product by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Catalog.API.Controllers.CatalogController.GetProductByCategory(System.String)">
+            <summary>
+            Get product By Category Name
+            </summary>
+            <param name="category"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Catalog.API.Controllers.CatalogController.CreateProduct(Catalog.API.Entities.Product)">
+            <summary>
+            Add Product
+            </summary>
+        </member>
+        <member name="M:Catalog.API.Controllers.CatalogController.UpdateProduct(Catalog.API.Entities.Product)">
+            <summary>
+            Update product
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Catalog.API.Controllers.CatalogController.DeleteProductById(System.String)">
+            <summary>
+            Delete Product
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
