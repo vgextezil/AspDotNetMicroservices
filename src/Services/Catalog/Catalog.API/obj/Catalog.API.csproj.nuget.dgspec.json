@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {}
+    "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj": {
+    "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
-        "packagesPath": "C:\\Users\\hakmandul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\obj\\",
+        "projectPath": "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+        "packagesPath": "/home/extezil/.nuget/packages/",
+        "outputPath": "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hakmandul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/extezil/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
