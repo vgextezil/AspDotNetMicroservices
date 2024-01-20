@@ -1280,24 +1280,26 @@
     ]
   },
   "packageFolders": {
-    "/home/extezil/.nuget/packages/": {}
+    "C:\\Users\\hakmandul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
+      "projectUniqueName": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/Catalog.API.csproj",
-      "packagesPath": "/home/extezil/.nuget/packages/",
-      "outputPath": "/home/extezil/RiderProjects/AspDotNetMicroservices/src/Services/Catalog/Catalog.API/obj/",
+      "projectPath": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+      "packagesPath": "C:\\Users\\hakmandul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hakmandul\\RiderProjects\\AspDotNetMicroservices\\src\\Services\\Catalog\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/extezil/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hakmandul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1352,7 +1354,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
