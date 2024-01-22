@@ -12,6 +12,7 @@
     restart: always
     ports:
       - "6379:6379"
+      - 
   
   portainer:
     container_name: portainer
